@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.App{
+  text-align: center;
+}
+
+.main{
+  text-align: center;
+}
+
+.hovered_Container{
+  text-align: center;
+}
+÷
+.slider:hover{
+  width: 300px;
+  background-color: blanchedalmond;
+}
+
+.pageContainer{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.slidebuttons{
+  margin-left: 20px;
+  margin-right: 20px;
+  align-items: center;
+  transform: translateY(500%)
+}
+
+.buttons{
+  margin: 10px;
+}
+
+.pageContainer{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
